@@ -23,4 +23,3 @@ class User(BaseModel, Base if (getenv('HBNB_TYPE_STORAGE') == "db")
         password = ''
         first_name = ''
         last_name = ''
-
